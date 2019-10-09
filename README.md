@@ -6,3 +6,6 @@
 2. 在mac上安装这俩个文件(一键上传GitHub.workflow 获取文件对应GitHub上的链接.workflow)
 3. 右键-> 服务 -> 选中一键上传GitHub/获取文件对应GitHub上的链接来使用
 
+### 优化点
+上传前对图片压缩
+
